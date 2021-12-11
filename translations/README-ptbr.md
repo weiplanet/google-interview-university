@@ -38,7 +38,6 @@ Traduções em progresso:
 - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
 - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
 
 <div align="center">
 	<hr />
@@ -48,6 +47,22 @@ Traduções em progresso:
     <p>
         <strong>Special thanks to:</strong>
     </p>
+    <p>
+        <a href="https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/simplify-logo.png" width="400"  alt="Simplify">
+            </div>
+            <div>
+                <p>
+                    <strong>Applying to jobs? Autofill all your applications in 1-click.</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Stop manually re-entering your information. Simplify’s extension helps you autofill jobs &amp; internship applications on millions of sites.</sup>
+            </div>
+        </a>
+    </p>
+    <br />
     <p>
         <a href="https://oss.capital/">
             <div>
@@ -939,7 +954,7 @@ Você ganhará mais prática com grafos no livro do Skiena (veja a seção de li
     - quando é apropriado usá-la
     - como a recursão de cauda é melhor do que nada?
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad) (O Que É Recursão de Cauda E Por Que Ela É Tão Ruim?)
-        - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc) (Recursão de Cauda - vídeo)
+        - [ ] [Tail Recursion (video)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1) (Recursão de Cauda - vídeo)
 
 - ### Programação Dinâmica
     - Esse assunto pode ser bem difícil, já que cada problema solúvel de PD deve ser definido como uma relação de recursão, e isso pode ser complicado.

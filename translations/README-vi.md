@@ -38,6 +38,22 @@ Ghi chú riêng cho việc duy trì và cập nhật bản dịch tiếng Việt
         <strong>Special thanks to:</strong>
     </p>
     <p>
+        <a href="https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/simplify-logo.png" width="400"  alt="Simplify">
+            </div>
+            <div>
+                <p>
+                    <strong>Applying to jobs? Autofill all your applications in 1-click.</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Stop manually re-entering your information. Simplify’s extension helps you autofill jobs &amp; internship applications on millions of sites.</sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
         <a href="https://oss.capital/">
             <div>
                 <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
@@ -961,7 +977,7 @@ Bạn sẽ biết thêm nhiều ứng dụng của đồ thị trong sách của
     - Khi nào thích hợp để sử dụng?
     - Đệ quy đuôi tốt hơn hay không như thế nào?
         - [ ] [Đệ quy đuôi là gì Tại sao nó không tốt(What Is Tail Recursion Why Is It So Bad)?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Đệ quy đuôi (Tail Recursion) (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Đệ quy đuôi (Tail Recursion) (video)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Quy hoạch động
     - Chủ đề này có thể hơi khó, và các bài toán giải được bằng quy hoạch động (Dynamic Programming - DP) phải được định nghĩa ở dạng quan hệ hồi quy, và tìm ra giải pháp quy hoạch động cũng không đơn giản.

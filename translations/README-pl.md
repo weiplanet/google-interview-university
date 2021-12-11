@@ -38,7 +38,6 @@
 - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
 - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Japanese (日本語)](https://github.com/jwasham/coding-interview-university/issues/257)
 
@@ -52,6 +51,22 @@
     <p>
         <strong>Special thanks to:</strong>
     </p>
+    <p>
+        <a href="https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/simplify-logo.png" width="400"  alt="Simplify">
+            </div>
+            <div>
+                <p>
+                    <strong>Applying to jobs? Autofill all your applications in 1-click.</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Stop manually re-entering your information. Simplify’s extension helps you autofill jobs &amp; internship applications on millions of sites.</sup>
+            </div>
+        </a>
+    </p>
+    <br />
     <p>
         <a href="https://oss.capital/">
             <div>
@@ -80,7 +95,6 @@
     </p>
     <hr />
 </div>
-
 ## Co to jest?
 
 To jest mój wielomiesięczny plan nauki od przejścia od programisty (samouka, bez dyplomu CS - informatyki) do inżyniera oprogramowania dla dużej firmy.
@@ -904,7 +918,7 @@ Grafy mogą być wykorzystane do przedstawienia wielu problemów w informatyce, 
     - when it is appropriate to use it
     - how is tail recursion better than not?
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Tail Recursion (wideo)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Tail Recursion (wideo)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Programowanie dynamiczne
     - Prawdopodobnie nie będziesz mieć programowania dynamicznego podczas swojej rekrutacji, ale warto umieć rozpoznawać problem, jako kandydata na ten właśnie rodzaj.

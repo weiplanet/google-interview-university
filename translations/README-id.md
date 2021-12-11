@@ -11,6 +11,22 @@ Versi asli: [Bahasa Inggris](../README.md)
         <strong>Special thanks to:</strong>
     </p>
     <p>
+        <a href="https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/simplify-logo.png" width="400"  alt="Simplify">
+            </div>
+            <div>
+                <p>
+                    <strong>Applying to jobs? Autofill all your applications in 1-click.</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Stop manually re-entering your information. Simplify’s extension helps you autofill jobs &amp; internship applications on millions of sites.</sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
         <a href="https://oss.capital/">
             <div>
                 <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
@@ -857,7 +873,7 @@ Graf (Graphs) dapat digunakan untuk merepresentasikan banyak masalah dalam ilmu 
     - Kapan saat yang tepat untuk menggunakannya?
     - Bagaimana rekursi ekor lebih baik daripada tidak?
         - [ ] [Apa Itu Rekursi Ekor Mengapa Sangat Buruk?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Rekursi Ekor (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Rekursi Ekor (video)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Pemrograman Dinamis
     - Anda mungkin tidak akan melihat masalah pemrograman dinamis dalam wawancara Anda, tetapi ada baiknya mengenali masalah sebagai kandidat untuk pemrograman dinamis (Dynamic Programming).
